@@ -1,0 +1,6 @@
+{
+  "name": "نُطقي - أرطوفونيا",
+  "description": "تطبيق متخصص للعلاج الأرطوفوني الحديث وتدريبات النطق التفاعلية والمهارات الحركية الفموية والتنفس النطقي لتحسين مهارات التواصل لدى الأطفال.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

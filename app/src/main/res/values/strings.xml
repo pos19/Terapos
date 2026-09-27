@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">نُطقي - أرطوفونيا</string>
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_articulation">مخارج الحروف</string>
+    <string name="nav_oral_motor">الجمباز الفموي</string>
+    <string name="nav_communication">التواصل والسمع</string>
+    <string name="nav_progress">ملف الطفل</string>
+    <string name="hero_title">برنامج العلاج الأرطوفوني الحديث</string>
+    <string name="hero_subtitle">تدريبات النطق التفاعلية، المهارات الفموية، والتواصل الوظيفي للأطفال</string>
+    <string name="btn_listen_normal">استماع طبيعي</string>
+    <string name="btn_listen_slow">نطق مقطعي بطيء</string>
+    <string name="btn_record_voice">تسجيل صوت الطفل</string>
+    <string name="btn_stop_record">إيقاف التسجيل</string>
+    <string name="btn_play_record">سماع تسجيل الطفل</string>
+    <string name="add_custom_word">إضافة كلمة علاجية</string>
+    <string name="add_child_profile">إضافة ملف طفل</string>
+</resources>
